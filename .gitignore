@@ -216,3 +216,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================
+# ML Project Specific
+# ==========================
+
+# macOS
+.DS_Store
+
+# Processed datasets
+data/processed/
+
+# Saved models
+models/*.pkl
+models/*.joblib
+
+# Generated reports & figures
+reports/figures/
+reports/tables/
+
+# Kaggle API credentials (if you ever use them)
+kaggle.json
