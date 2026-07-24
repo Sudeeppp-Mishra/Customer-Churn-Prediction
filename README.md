@@ -64,7 +64,7 @@ The following classification algorithms will be implemented and compared:
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 Models will be evaluated using:
 
@@ -103,6 +103,7 @@ Models will be evaluated using:
 
 ## Project Structure
 
+```bash
 Customer-Churn-Prediction/
 │
 ├── data/
@@ -130,6 +131,7 @@ Customer-Churn-Prediction/
 ├── README.md
 ├── .gitignore
 └── LICENSE
+```
 
 ---
 
@@ -215,4 +217,4 @@ The final project will compare multiple classification models and identify the b
 
 Computer Engineering Student
 
-GitHub: [GitHub](https://github.com/Sudeeppp-Mishra)
+GitHub: [Sudeep Mishra](https://github.com/Sudeeppp-Mishra)
