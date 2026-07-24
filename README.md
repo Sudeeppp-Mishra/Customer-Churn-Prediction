@@ -107,25 +107,13 @@ Models will be evaluated using:
 Customer-Churn-Prediction/
 │
 ├── data/
-│ ├── raw/
-│ └── processed/
+│ ├── raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
 │
 ├── notebooks/
 │ └── customer_churn_prediction.ipynb
 │
-├── src/
-│ ├── preprocessing.py
-│ ├── feature_engineering.py
-│ ├── train.py
-│ ├── evaluate.py
-│ └── utils.py
-│
 ├── models/
 │ └── best_model.pkl
-│
-├── reports/
-│ ├── figures/
-│ └── technical_report.pdf
 │
 ├── requirements.txt
 ├── README.md
